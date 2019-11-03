@@ -23,3 +23,5 @@ print(Employee.fullname(emp_1)) #using the class name, need to manually pass ins
 
 print(Employee.raise_amount)
 print(emp_1.raise_amount)
+
+print(emp_1.raise_amount)
